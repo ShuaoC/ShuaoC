@@ -1,4 +1,3 @@
-![Umiko](https://github.com/ShuaoC/ShuaoC/blob/main/umiko.gif)
 
 <p align="center">
   <img src="https://github.com/ShuaoC/ShuaoC/blob/main/umiko.gif?raw=true" alt="Umiko"/>
