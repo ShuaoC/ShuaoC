@@ -1,4 +1,4 @@
-### Hi there 👋
+![Umiko](https://github.com/ShuaoC/ShuaoC/blob/main/umiko.gif)
 
 <!--
 **ShuaoC/ShuaoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
