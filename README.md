@@ -1,5 +1,9 @@
 ![Umiko](https://github.com/ShuaoC/ShuaoC/blob/main/umiko.gif)
 
+<p align="center">
+  <img src="https://github.com/ShuaoC/ShuaoC/blob/main/umiko.gif?raw=true" alt="Umiko"/>
+</p>
+
 <!--
 **ShuaoC/ShuaoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
