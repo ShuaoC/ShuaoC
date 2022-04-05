@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shuao Chen</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shuao chen (陈舒翱)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuao chen (陈舒翱)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shuao-chen-%E9%99%88%E8%88%92%E7%BF%B1-65a80617b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuao chen (陈舒翱)" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/9021" height="30" width="40" /></a>
 </p>
 
