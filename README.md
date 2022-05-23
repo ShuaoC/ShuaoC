@@ -40,3 +40,7 @@
 </p>
 
 
+<!-- 
+Daily record:
+  05/23/2022: Monday, Second week working at deldxlabs.
+-->
