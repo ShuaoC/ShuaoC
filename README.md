@@ -43,4 +43,5 @@
 <!-- 
 Daily record:
   05/23/2022: Monday, Second week working at deldxlabs.
+  05/26/2022: First coding assignment in my work.
 -->
