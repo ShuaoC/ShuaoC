@@ -45,4 +45,5 @@ Daily record:
   05/23/2022: Monday, Second week working at deldxlabs.
   05/26/2022: First coding assignment in my work.
   06/10/2022: Haven't write anything for a long time.
+  06/13/2022: Hope everything will be alright.
 -->
