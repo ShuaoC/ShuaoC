@@ -47,4 +47,5 @@ Daily record:
   06/10/2022: Haven't write anything for a long time.
   06/13/2022: Hope everything will be alright.
   06/16/2022: Currently writing a printer driver program that can upload files to sftp.
+  06/17/2022: Whole body is very fatigue after the thrid covid vaccine.
 -->
