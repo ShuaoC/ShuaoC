@@ -48,4 +48,5 @@ Daily record:
   06/13/2022: Hope everything will be alright.
   06/16/2022: Currently writing a printer driver program that can upload files to sftp.
   06/17/2022: Whole body is very fatigue after the thrid covid vaccine.
+  07/06/2022: Just saw Minion the rise of gru in theater, it's alright, pretty funny sometimes
 -->
